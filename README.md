@@ -1,4 +1,4 @@
-<img width="1184" height="663" alt="Screenshot 2026-06-12 010433" src="https://github.com/user-attachments/assets/b3475e77-8674-4eda-965a-4576cb00b9ab" /># 📉 알바생 계좌 잔고 수호기 (Flexible Balance Protector)
+
 
 ## 01 프로젝트 이름
 알바생 계좌 잔고 수호기 (유동 지출을 반영한 최선/최악 미래 예측 계산기)
